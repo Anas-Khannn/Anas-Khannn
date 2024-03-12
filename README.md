@@ -1,5 +1,8 @@
 
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&usqp=CAU)
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&usqp=CAU" alt="MasterHead">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Anas Khan</h1>
 <h3 align="center">A passionate Flutter Developer from Peshawar,Pakistan</h3>
