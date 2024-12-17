@@ -1,3 +1,4 @@
+# 💫 About Me:
 
 🌟 About Me<br>🚀 I'm currently working on<br><br>JavaScript, Node.js, Express.js, and MongoDB<br>MERN stack projects<br>🤝 I'm looking to collaborate on<br><br>Open-source projects involving React.js, Node.js, or Cybersecurity tools.<br>Technical workshops and events focusing on **.<br>🛟 I'm looking for help with<br><br>Exploring advanced Cybersecurity practices and tools.<br>🌱 I'm currently learning<br><br>Advanced concepts in React.js and full-stack MERN development.<br>💬 Ask me about<br><br>Organizing impactful tech events and building tech communities.<br>Full-stack development with the MERN stack.<br>⚡ Fun fact<br>I’ve been a passionate FC Barcelona fan since childhood! ⚽ Watching their matches is my go-to way to recharge.
 
