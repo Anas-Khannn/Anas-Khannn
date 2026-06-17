@@ -257,7 +257,7 @@ I'm always excited to connect with fellow developers, collaborate on innovative 
   <a href="https://www.linkedin.com/in/anas-khan-b55703265"><img src="https://img.shields.io/badge/LinkedIn-Anas%20Khan-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://github.com/Anas-Khannn"><img src="https://img.shields.io/badge/GitHub-Anas%20Khannn-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://www.instagram.com/thedevscript"><img src="https://img.shields.io/badge/Instagram-%40thedevscript-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
-  <a href="mailto:anas@example.com"><img src="https://img.shields.io/badge/Email-Get%20In%20Touch-FF6B6B?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="mailto:anaskhandev728@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20In%20Touch-FF6B6B?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
 ### 💬 Direct Contact
