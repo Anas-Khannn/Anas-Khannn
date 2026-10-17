@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1A1B3A,75:6E56CF,100:00D9FF&height=300&section=header&text=Anas%20Khan&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=code%20%E2%86%92%20build%20%E2%86%92%20break%20%E2%86%92%20fix%20%E2%86%92%20ship%20%E2%86%92%20repeat&descAlignY=60&descSize=18&stroke=00D9FF&strokeWidth=1" width="100%"/>
 
 <a href="https://github.com/Anas-Khannn">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=50&lines=%3E+Full-Stack+Developer+%F0%9F%9A%80;%3E+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Flutter;%3E+Turning+%22what+if%3F%22+into+shipped+products;%3E+Community+builder+%40+CNCF+%26+Global+Shapers+Peshawar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=50&lines=%3E+Full-Stack+Developer+%F0%9F%9A%80;%3E+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Flutter;%3E+Turning+%22what+if%3F%22+into+shipped+products" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -36,7 +36,6 @@ const anas = {
     mobile:   ["Flutter", "Dart"],
   },
   currently:  "shipping full-stack apps with Next.js + PostgreSQL",
-  community:  ["CNCF Chapter Peshawar", "Global Shapers Peshawar"],
   loop:       () => ["code", "build", "break", "fix", "ship"].repeat(),
   outsideCode:"⚽ FC Barcelona till I die",
 };
@@ -164,18 +163,6 @@ Website for a circular-economy social enterprise that upcycles PVC banner waste 
 <sub>More in the lab → <a href="https://github.com/Anas-Khannn/covid19-global-tracker">COVID-19 Tracker</a> · <a href="https://github.com/Anas-Khannn/flutter-google-maps">Flutter Google Maps</a> · <a href="https://github.com/Anas-Khannn/e-mart-pro-retail-management-system">E-Mart Pro</a> · <a href="https://github.com/Anas-Khannn/devscript.exe">devscript.exe</a> · <a href="https://github.com/Anas-Khannn?tab=repositories">all repos ↗</a></sub>
 </div>
 
-<!-- ═══════════════════════════════  COMMUNITY  ═══════════════════════════════ -->
-
-## 🎤 Beyond My Own Repos
-
-```diff
-+ 🎙️  Speaker   — "Boosting Mobile App Development With AI"   → ai-mobile-development-workshop
-+ ☁️  Contributor — CNCF Chapter Peshawar community portal      → cncf-peshawar.github.io
-+ 🌍  Contributor — Global Shapers Peshawar platform & Upflex   → gspeshawar
-+ 🎰  Contributor — Commit Roulette, a live-coding competition  → commit-roulette
-+ 🏗️  Contributor — Distribution Management System monorepo    → Turborepo migration
-```
-
 <!-- ═══════════════════════════════  STATS  ═══════════════════════════════ -->
 
 ## 📊 By The Numbers
@@ -201,7 +188,7 @@ Website for a circular-economy social enterprise that upcycles PVC banner waste 
 |:---|:---|
 | A startup idea that needs an MVP | Next.js + Postgres, end to end |
 | An app idea for Android & iOS | Flutter + Supabase, shipped to stores |
-| An open-source or community project | PRs, docs, and a speaker who shows up |
+| An open-source project | Clean PRs and docs |
 | A hackathon with an empty seat | Caffeine and a working demo by the deadline |
 
 <br/>
