@@ -176,6 +176,8 @@ Website for a circular-economy social enterprise that upcycles PVC banner waste 
 
 <img width="100%" src="https://ghchart.rshah.org/196127/Anas-Khannn" alt="contribution chart" />
 
+<img width="100%" src="https://raw.githubusercontent.com/Anas-Khannn/Anas-Khannn/output/github-snake-dark.svg" alt="snake eating contributions" />
+
 </div>
 
 <!-- ═══════════════════════════════  COLLAB  ═══════════════════════════════ -->
