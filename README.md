@@ -187,7 +187,7 @@ Website for a circular-economy social enterprise that upcycles PVC banner waste 
 
 <img width="80%" src="https://streak-stats.demolab.com/?user=Anas-Khannn&hide_border=true&background=0D1117&ring=00D9FF&fire=6E56CF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
-<img width="100%" src="https://ghchart.rshah.org/6E56CF/Anas-Khannn" alt="contribution chart" />
+<img width="100%" src="https://ghchart.rshah.org/39d353/Anas-Khannn" alt="contribution chart" />
 
 </div>
 
