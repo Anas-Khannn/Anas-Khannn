@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1A1B3A,75:6E56CF,100:00D9FF&height=300&section=header&text=Anas%20Khan&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=code%20%E2%86%92%20build%20%E2%86%92%20break%20%E2%86%92%20fix%20%E2%86%92%20ship%20%E2%86%92%20repeat&descAlignY=60&descSize=18&stroke=00D9FF&strokeWidth=1" width="100%"/>
 
 <a href="https://github.com/Anas-Khannn">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=50&lines=%3E+Full-Stack+Developer+%F0%9F%9A%80;%3E+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Flutter;%3E+Turning+%22what+if%3F%22+into+shipped+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=50&lines=%3E+Full-Stack+Developer;%3E+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Flutter;%3E+Turning+%22what+if%3F%22+into+shipped+products" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -27,7 +27,7 @@
 ```ts
 const anas = {
   role:       "Full-Stack Developer",
-  location:   "Peshawar, Pakistan 🇵🇰",
+  location:   "Peshawar, Pakistan",
   studying:   "BS Computer Science",
   stack: {
     web:      ["Next.js", "React", "TypeScript", "Tailwind"],
@@ -37,7 +37,7 @@ const anas = {
   },
   currently:  "shipping full-stack apps with Next.js + PostgreSQL",
   loop:       () => ["code", "build", "break", "fix", "ship"].repeat(),
-  outsideCode:"⚽ FC Barcelona till I die",
+  outsideCode:"FC Barcelona",
 };
 ```
 
@@ -45,29 +45,29 @@ const anas = {
 
 <!-- ═══════════════════════════════  STACK  ═══════════════════════════════ -->
 
-## ⚡ The Toolbox
+## Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="140"><b>🎨 Frontend</b></td>
+<td align="center" width="140"><b>Frontend</b></td>
 <td><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,html,css,astro,vite&theme=dark&perline=10" /></td>
 </tr>
 <tr>
-<td align="center"><b>⚙️ Backend</b></td>
+<td align="center"><b>Backend</b></td>
 <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,mysql,supabase,sequelize&theme=dark" /></td>
 </tr>
 <tr>
-<td align="center"><b>📱 Mobile</b></td>
+<td align="center"><b>Mobile</b></td>
 <td><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" /></td>
 </tr>
 <tr>
-<td align="center"><b>🧠 Languages</b></td>
+<td align="center"><b>Languages</b></td>
 <td><img src="https://skillicons.dev/icons?i=ts,js,java,cpp,c,python&theme=dark" /></td>
 </tr>
 <tr>
-<td align="center"><b>🚀 Ship It</b></td>
+<td align="center"><b>Tools</b></td>
 <td><img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,postman,figma,vscode&theme=dark" /></td>
 </tr>
 </table>
@@ -76,16 +76,16 @@ const anas = {
 
 <!-- ═══════════════════════════════  PROJECTS  ═══════════════════════════════ -->
 
-## 🚀 Things I've Shipped
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [SheShield](https://github.com/Anas-Khannn/she-shield-mobile-app)
-<sub>⭐ **First paid, delivered client project**</sub>
+### [SheShield](https://github.com/Anas-Khannn/she-shield-mobile-app)
+<sub>Client project</sub>
 
-Women's safety app with **SOS alerts**, **live location sharing**, emergency contacts and secure auth — real-time, on real phones.
+Women's safety app with **SOS alerts**, **live location sharing**, emergency contacts and secure auth.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -94,10 +94,10 @@ Women's safety app with **SOS alerts**, **live location sharing**, emergency con
 </td>
 <td width="50%" valign="top">
 
-### 💸 [SplitEase](https://github.com/Anas-Khannn/SplitEase-expense-tracker)
+### [SplitEase](https://github.com/Anas-Khannn/SplitEase-expense-tracker)
 <sub>Full-stack shared expense tracker</sub>
 
-Split bills with friends without the awkward math. Validated end to end with **Joi** on the server and **Formik/Yup** on the client.
+Track and split shared expenses with friends. Validated with **Joi** on the server and **Formik/Yup** on the client.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -109,10 +109,10 @@ Split bills with friends without the awkward math. Validated end to end with **J
 <tr>
 <td width="50%" valign="top">
 
-### 📦 [Order & Inventory System](https://github.com/Anas-Khannn/order-inventory-management-system)
-<sub>Business logic that lives on the server, where it belongs</sub>
+### [Order & Inventory System](https://github.com/Anas-Khannn/order-inventory-management-system)
+<sub>Order and inventory management</sub>
 
-Manage products, stock levels and customer orders with secure server-side rules — no trusting the client.
+Manage products, stock levels and customer orders with server-side business rules.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -121,10 +121,10 @@ Manage products, stock levels and customer orders with secure server-side rules 
 </td>
 <td width="50%" valign="top">
 
-### 👟 [Sole Store](https://github.com/Anas-Khannn/sole-store-full-stack)
+### [Sole Store](https://github.com/Anas-Khannn/sole-store-full-stack)
 <sub>MERN e-commerce for premium footwear</sub>
 
-Auth, product management, cart and order processing — a complete storefront for men, women and kids.
+Auth, product management, cart and order processing. A storefront for men, women and kids.
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -136,10 +136,10 @@ Auth, product management, cart and order processing — a complete storefront fo
 <tr>
 <td width="50%" valign="top">
 
-### 🍟 [Tornado Fries](https://github.com/Anas-Khannn/tornado-fries-mobile-app)
+### [Tornado Fries](https://github.com/Anas-Khannn/tornado-fries-mobile-app)
 <sub>Food ordering app for a real local restaurant</sub>
 
-Interactive menu, signature tornado fries, burgers and seamless online ordering — built for an actual business.
+Menu browsing and online ordering for a local restaurant.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -147,7 +147,7 @@ Interactive menu, signature tornado fries, burgers and seamless online ordering 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 [Upflex Solutions](https://github.com/Anas-Khannn/upflex-solutions-GlobalShaper-)
+### [Upflex Solutions](https://github.com/Anas-Khannn/upflex-solutions-GlobalShaper-)
 <sub>A Global Shapers Peshawar Hub initiative</sub>
 
 Website for a circular-economy social enterprise that upcycles PVC banner waste and empowers female artisans.
@@ -160,12 +160,12 @@ Website for a circular-economy social enterprise that upcycles PVC banner waste 
 </table>
 
 <div align="center">
-<sub>More in the lab → <a href="https://github.com/Anas-Khannn/covid19-global-tracker">COVID-19 Tracker</a> · <a href="https://github.com/Anas-Khannn/flutter-google-maps">Flutter Google Maps</a> · <a href="https://github.com/Anas-Khannn/e-mart-pro-retail-management-system">E-Mart Pro</a> · <a href="https://github.com/Anas-Khannn/devscript.exe">devscript.exe</a> · <a href="https://github.com/Anas-Khannn?tab=repositories">all repos ↗</a></sub>
+<sub>More projects: <a href="https://github.com/Anas-Khannn/covid19-global-tracker">COVID-19 Tracker</a> · <a href="https://github.com/Anas-Khannn/flutter-google-maps">Flutter Google Maps</a> · <a href="https://github.com/Anas-Khannn/e-mart-pro-retail-management-system">E-Mart Pro</a> · <a href="https://github.com/Anas-Khannn/devscript.exe">devscript.exe</a> · <a href="https://github.com/Anas-Khannn?tab=repositories">all repos</a></sub>
 </div>
 
 <!-- ═══════════════════════════════  STATS  ═══════════════════════════════ -->
 
-## 📊 By The Numbers
+## GitHub Stats
 
 <div align="center">
 
@@ -174,31 +174,24 @@ Website for a circular-economy social enterprise that upcycles PVC banner waste 
 
 <img width="80%" src="https://streak-stats.demolab.com/?user=Anas-Khannn&hide_border=true&background=0D1117&ring=00D9FF&fire=6E56CF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
-<img width="100%" src="https://ghchart.rshah.org/196127/Anas-Khannn" alt="contribution chart" />
-
 <img width="100%" src="https://raw.githubusercontent.com/Anas-Khannn/Anas-Khannn/output/github-snake-dark.svg" alt="snake eating contributions" />
 
 </div>
 
 <!-- ═══════════════════════════════  COLLAB  ═══════════════════════════════ -->
 
-## 🤝 Let's Build Something
+## Contact
 
 <div align="center">
 
-| 💡 You have… | 🛠️ I bring… |
+| You have | I bring |
 |:---|:---|
 | A startup idea that needs an MVP | Next.js + Postgres, end to end |
 | An app idea for Android & iOS | Flutter + Supabase, shipped to stores |
 | An open-source project | Clean PRs and docs |
-| A hackathon with an empty seat | Caffeine and a working demo by the deadline |
 
 <br/>
 
-> *"Both football and code need passion, strategy, and teamwork."* — a lifelong Culé 🔵🔴
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,50:1A1B3A,100:00D9FF&height=130&section=footer&text=thanks%20for%20scrolling%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,50:1A1B3A,100:00D9FF&height=130&section=footer&text=thanks%20for%20scrolling&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
 
 </div>
