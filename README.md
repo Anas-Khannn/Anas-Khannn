@@ -1,164 +1,215 @@
+<!-- ═══════════════════════════════  HERO  ═══════════════════════════════ -->
 <div align="center">
 
-<!-- Animated 3D wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6E56CF,100:00D9FF&height=280&section=header&text=Anas%20Khan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%2B%20MERN%20%7C%20Flutter&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1A1B3A,75:6E56CF,100:00D9FF&height=300&section=header&text=Anas%20Khan&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=code%20%E2%86%92%20build%20%E2%86%92%20break%20%E2%86%92%20fix%20%E2%86%92%20ship%20%E2%86%92%20repeat&descAlignY=60&descSize=18&stroke=00D9FF&strokeWidth=1" width="100%"/>
 
-<!-- Typing animation -->
 <a href="https://github.com/Anas-Khannn">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Next.js+%7C+MERN+%7C+Flutter+%7C+PostgreSQL;Building+Real-World+Products+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=50&lines=%3E+Full-Stack+Developer+%F0%9F%9A%80;%3E+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Flutter;%3E+Turning+%22what+if%3F%22+into+shipped+products;%3E+Community+builder+%40+CNCF+%26+Global+Shapers+Peshawar" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/GitHub-Anas--Khannn-black?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117" />
-<a href="https://www.linkedin.com/in/anas-khan-7014b536a"><img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" /></a>
-<img src="https://img.shields.io/badge/Instagram-thedevscript-black?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" />
+<a href="https://devscript-exe.anaskhandev728.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-devscript.exe-00D9FF?style=for-the-badge&logo=astro&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/anas-khan-7014b536a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://www.instagram.com/thedevscript"><img src="https://img.shields.io/badge/Instagram-@thedevscript-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=Anas-Khannn&label=Profile%20Views&color=6E56CF&style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
 <br/>
 
-<!-- Spinning 3D globe / dev icon for visual flair -->
-<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="spinning-dev-icon" />
+<!-- ═══════════════════════════════  WHOAMI  ═══════════════════════════════ -->
 
-## 🧑‍💻 About Me
+## `$ whoami`
 
-I'm **Anas Khan**, a Computer Science undergrad at **UET Peshawar**. I build full-stack products end to end — from Postgres schemas to pixel-perfect Next.js interfaces to Flutter apps that ship to real users.
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
-- 🏗️ Currently building full-stack apps with **Next.js + PostgreSQL**
-- 📱 Shipping cross-platform mobile apps with **Flutter + Supabase**
-- ⚡ Deploying everything on **Vercel**
+```ts
+const anas = {
+  role:       "Full-Stack Developer",
+  location:   "Peshawar, Pakistan 🇵🇰",
+  studying:   "BS Computer Science",
+  stack: {
+    web:      ["Next.js", "React", "TypeScript", "Tailwind"],
+    backend:  ["Node.js", "Express", "Sequelize", "REST APIs"],
+    data:     ["PostgreSQL", "MongoDB", "MySQL", "Supabase"],
+    mobile:   ["Flutter", "Dart"],
+  },
+  currently:  "shipping full-stack apps with Next.js + PostgreSQL",
+  community:  ["CNCF Chapter Peshawar", "Global Shapers Peshawar"],
+  loop:       () => ["code", "build", "break", "fix", "ship"].repeat(),
+  outsideCode:"⚽ FC Barcelona till I die",
+};
+```
 
 <br clear="right"/>
 
----
+<!-- ═══════════════════════════════  STACK  ═══════════════════════════════ -->
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,redux,bootstrap,tailwind&theme=dark" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,supabase&theme=dark" />
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,java,cpp,c,python&theme=dark" />
-
-**Tools & Deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,postman&theme=dark" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## ⚡ The Toolbox
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
-
-### 🛡️ She Shield
-Women's safety app — my first paid, delivered project.
-
-`Flutter` `Node.js` `Express` `Supabase`
-
-</td>
-<td width="50%">
-
-### 📝 MemoNest
-Full-stack note-taking app with JWT auth & query-level data isolation.
-
-`Next.js` `Express` `PostgreSQL` `TanStack Query`
-
-</td>
+<td align="center" width="140"><b>🎨 Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,html,css,astro,vite&theme=dark&perline=10" /></td>
 </tr>
 <tr>
-<td width="50%">
-
-### 🍟 Tornado Fries
-Web project — part of core showcase lineup.
-
-</td>
-<td width="50%">
-
-### 🦠 COVID-19 Global Tracker
-Real-time data tracking dashboard.
-
-</td>
+<td align="center"><b>⚙️ Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,mysql,supabase,sequelize&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>📱 Mobile</b></td>
+<td><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🧠 Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=ts,js,java,cpp,c,python&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🚀 Ship It</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,postman,figma,vscode&theme=dark" /></td>
 </tr>
 </table>
 
 </div>
 
-> 📌 Priority order: **She Shield → MemoNest → Tornado Fries → COVID-19 Global Tracker → Flutter Google Maps**
+<!-- ═══════════════════════════════  PROJECTS  ═══════════════════════════════ -->
 
----
+## 🚀 Things I've Shipped
 
-## 📊 GitHub Analytics
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [SheShield](https://github.com/Anas-Khannn/she-shield-mobile-app)
+<sub>⭐ **First paid, delivered client project**</sub>
+
+Women's safety app with **SOS alerts**, **live location sharing**, emergency contacts and secure auth — real-time, on real phones.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 [SplitEase](https://github.com/Anas-Khannn/SplitEase-expense-tracker)
+<sub>Full-stack shared expense tracker</sub>
+
+Split bills with friends without the awkward math. Validated end to end with **Joi** on the server and **Formik/Yup** on the client.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 [Order & Inventory System](https://github.com/Anas-Khannn/order-inventory-management-system)
+<sub>Business logic that lives on the server, where it belongs</sub>
+
+Manage products, stock levels and customer orders with secure server-side rules — no trusting the client.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 👟 [Sole Store](https://github.com/Anas-Khannn/sole-store-full-stack)
+<sub>MERN e-commerce for premium footwear</sub>
+
+Auth, product management, cart and order processing — a complete storefront for men, women and kids.
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍟 [Tornado Fries](https://github.com/Anas-Khannn/tornado-fries-mobile-app)
+<sub>Food ordering app for a real local restaurant</sub>
+
+Interactive menu, signature tornado fries, burgers and seamless online ordering — built for an actual business.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 [Upflex Solutions](https://github.com/Anas-Khannn/upflex-solutions-GlobalShaper-)
+<sub>A Global Shapers Peshawar Hub initiative</sub>
+
+Website for a circular-economy social enterprise that upcycles PVC banner waste and empowers female artisans.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>More in the lab → <a href="https://github.com/Anas-Khannn/covid19-global-tracker">COVID-19 Tracker</a> · <a href="https://github.com/Anas-Khannn/flutter-google-maps">Flutter Google Maps</a> · <a href="https://github.com/Anas-Khannn/e-mart-pro-retail-management-system">E-Mart Pro</a> · <a href="https://github.com/Anas-Khannn/devscript.exe">devscript.exe</a> · <a href="https://github.com/Anas-Khannn?tab=repositories">all repos ↗</a></sub>
+</div>
+
+<!-- ═══════════════════════════════  COMMUNITY  ═══════════════════════════════ -->
+
+## 🎤 Beyond My Own Repos
+
+```diff
++ 🎙️  Speaker   — "Boosting Mobile App Development With AI"   → ai-mobile-development-workshop
++ ☁️  Contributor — CNCF Chapter Peshawar community portal      → cncf-peshawar.github.io
++ 🌍  Contributor — Global Shapers Peshawar platform & Upflex   → gspeshawar
++ 🎰  Contributor — Commit Roulette, a live-coding competition  → commit-roulette
++ 🏗️  Contributor — Distribution Management System monorepo    → Turborepo migration
+```
+
+<!-- ═══════════════════════════════  STATS  ═══════════════════════════════ -->
+
+## 📊 By The Numbers
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anas-Khannn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6E56CF&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Khannn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF" width="35%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anas-Khannn&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6E56CF&text_color=c9d1d9&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Khannn&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&exclude_repo=Programing-X-Fundamental" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Khannn&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=6E56CF" width="60%" />
+<img width="80%" src="https://streak-stats.demolab.com/?user=Anas-Khannn&hide_border=true&background=0D1117&ring=00D9FF&fire=6E56CF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anas-Khannn&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=6E56CF&point=ffffff" width="100%" />
+<img width="100%" src="https://ghchart.rshah.org/6E56CF/Anas-Khannn" alt="contribution chart" />
 
 </div>
 
-<!--
-  Snake contribution animation — requires a one-time GitHub Actions setup
-  (Platane/snk) in this repo to generate output/github-contribution-grid-snake.svg.
-  Once set up, uncomment the two lines below.
--->
-<!--
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anas-Khannn/Anas-Khannn/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
--->
+<!-- ═══════════════════════════════  COLLAB  ═══════════════════════════════ -->
 
----
-
-## 🔗 Open To Collaborate On
+## 🤝 Let's Build Something
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MERN%20STACK%20PROJECTS-00D9FF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/FLUTTER%20PROJECTS-0B3D91?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/FULL%20STACK%20WEB%20APPS-F16A6A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-FFA500?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/HACKATHONS-6C63FF?style=for-the-badge&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/STARTUP%20IDEAS-2ECC71?style=for-the-badge&logoColor=white" />
+| 💡 You have… | 🛠️ I bring… |
+|:---|:---|
+| A startup idea that needs an MVP | Next.js + Postgres, end to end |
+| An app idea for Android & iOS | Flutter + Supabase, shipped to stores |
+| An open-source or community project | PRs, docs, and a speaker who shows up |
+| A hackathon with an empty seat | Caffeine and a working demo by the deadline |
 
-</div>
+<br/>
 
----
+> *"Both football and code need passion, strategy, and teamwork."* — a lifelong Culé 🔵🔴
 
-## ⚽ Fun Fact
+<br/>
 
-Lifelong **FC Barcelona** fan — when I'm not shipping code, I'm watching a match. Both, in my book, need passion, strategy, and teamwork.
-
----
-
-<div align="center">
-
-### 📬 Let's Connect
-
-Always open to collaborating on Next.js/MERN products, Flutter apps, or community-driven tech work.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6E56CF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,50:1A1B3A,100:00D9FF&height=130&section=footer&text=thanks%20for%20scrolling%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
 
 </div>
